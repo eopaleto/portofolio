@@ -104,18 +104,24 @@ function a11yProps(index) {
 
 // techStacks tetap sama
 const techStacks = [
+  { icon: "laravel-2.svg", language: "Laravel" },
+  { icon: "php.svg", language: "Php" },
+  { icon: "filament.png", language: "Filament" },
+  { icon: "mikrotik.svg", language: "Mikrotik" },
+  { icon: "python.svg", language: "Python" },
+  { icon: "blynk.png", language: "Blynk" },
+  { icon: "arduino.png", language: "Arduino" },
+  { icon: "linux.svg", language: "Linux" },
   { icon: "html.svg", language: "HTML" },
   { icon: "css.svg", language: "CSS" },
   { icon: "javascript.svg", language: "JavaScript" },
-  { icon: "tailwind.svg", language: "Tailwind CSS" },
   { icon: "reactjs.svg", language: "ReactJS" },
-  { icon: "vite.svg", language: "Vite" },
-  { icon: "nodejs.svg", language: "Node JS" },
+  { icon: "chartjs.png", language: "Chart JS" },
   { icon: "bootstrap.svg", language: "Bootstrap" },
-  { icon: "firebase.svg", language: "Firebase" },
-  { icon: "MUI.svg", language: "Material UI" },
-  { icon: "vercel.svg", language: "Vercel" },
   { icon: "SweetAlert.svg", language: "SweetAlert2" },
+  { icon: "mysql.png", language: "MySQL" },
+  { icon: "word.png", language: "Word" },
+  { icon: "excel.png", language: "Excel" },
 ];
 
 export default function FullWidthTabs() {
