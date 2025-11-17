@@ -236,13 +236,10 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              Seorang mahasiswa diploma komputer yang mengambil jurusan Teknik
-              Komputer di Universitas Sriwijaya, dengan pengalaman luas yang
-              diperoleh selama tahun-tahun akademik. Sangat bersemangat tentang
-              teknologi dan pemecahan masalah, dengan minat yang kuat dalam
-              desain sistem, pemrograman, dan inovasi. Berkomitmen untuk terus
-              belajar dan mengembangkan diri, berdedikasi untuk memberikan hasil
-              yang berdampak dalam setiap tugas dan proyek yang dilakukan.
+              Saya seorang lulusan D3 Teknik Komputer Universitas Sriwijaya. dengan pengalaman praktis yang
+              diperoleh selama masa studi. Memiliki minat kuat pada teknologi, pemecahan masalah, desain sistem,
+              dan pengembangan perangkat lunak. Saya berkomitmen untuk terus berkembang dan memberikan
+              kontribusi terbaik dalam setiap tugas maupun proyek.
             </p>
 
             {/* Quote Section */}
